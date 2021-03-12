@@ -1,6 +1,5 @@
 # Program Author: Regan Setter
-# Student ID number: 3505894
-# Program one - Six Math Functions
+# Program one - Math Functions
 # February 4th, 2021
 
 # A program written in Python that allows you to perform six different mathematics functions between two numbers
